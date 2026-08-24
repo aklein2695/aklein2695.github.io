@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B4XM534UJZ.com.akmb.Business-Tycon"],
+        "components": [
+          {
+            "/": "/business-tycoon/*",
+            "comment": "Ouvre Business Tycoon sur le contenu vise"
+          }
+        ]
+      }
+    ]
+  }
+}

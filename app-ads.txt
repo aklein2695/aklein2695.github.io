@@ -162,3 +162,6 @@ rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
 zmaticoo.com, 5135195, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 media.net, 8CUSC3UJ7, RESELLER
+
+# Liftoff Monetize (Vungle), ajouté le 2026-10-13
+vungle.com, 6acea81d8f0c54b9af53a0f8, DIRECT, c107d686becd2d77
